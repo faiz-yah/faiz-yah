@@ -17,7 +17,7 @@ Here is a structured glimpse on my continuous journey and pursuit towards seekin
 
 ### [1] End-to-end projects
 1. YouTube API ELT → [here](https://github.com/faiz-yah/project-yt-api-elt)
-2. NLP Agriculture Farming QA Chatbot → [here]([https://github.com/faiz-yah/nlp-projects](https://github.com/faiz-yah/nlp-projects/tree/master/1-agribot))
+2. NLP Agriculture Farming QA Chatbot → [here](https://github.com/faiz-yah/nlp-projects/tree/master/1-agribot)
 
 ### [2] Master of Data Science
 Knowledge base of my growth throughout my Master programme. → [here](https://github.com/faiz-yah/master-of-data-science)
