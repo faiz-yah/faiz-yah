@@ -16,8 +16,9 @@ Aside from data, other fun stuff that excites me:
 Here is a structured glimpse on my continuous journey and pursuit towards seeking knowledge of everything data.
 
 ### [1] End-to-end projects
-1. YouTube API ELT → [here](https://github.com/faiz-yah/project-yt-api-elt)
+1. KL House Price Prediction → [here](https://github.com/faiz-yah/project-kl-house-price-prediction)
 2. NLP Agriculture Farming QA Chatbot → [here](https://github.com/faiz-yah/nlp-projects/tree/master/1-agribot)
+3. YouTube API ELT → [here](https://github.com/faiz-yah/project-yt-api-elt)
 
 ### [2] Master of Data Science
 Knowledge base of my growth throughout my Master programme. → [here](https://github.com/faiz-yah/master-of-data-science)
