@@ -13,7 +13,7 @@ Here is a structured glimpse on my continuous journey and pursuit towards seekin
 
 ### [1] End-to-end projects
 1. KL House Price Prediction → [here](https://github.com/faiz-yah/project-kl-house-price-prediction)
-2. NLP Agriculture Farming QA Chatbot → [here](https://github.com/faiz-yah/nlp-projects/tree/master/1-agribot)
+2. Agricultural Chatbot with RAG → [here](https://github.com/faiz-yah/nlp-projects/tree/master/1-agribot)
 3. YouTube API ELT → [here](https://github.com/faiz-yah/project-yt-api-elt)
 
 ### [2] Master of Data Science
