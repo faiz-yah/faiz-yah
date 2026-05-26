@@ -3,10 +3,6 @@ Hello, apa khabar, 你好, bonjour!
 
 I am Faiz Yah, a data scientist with the purpose of making positive impact by harnessing the power of data.
 
-Formal education:
-- Bachelor of Civil Engineering, Tongji University 🇨🇳
-- Master in Data Science, Universiti Malaya 🇲🇾
-
 Aside from data, other fun stuff that excites me:
 - Languages (Quadrillingual here! 🇲🇾🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇳🇫🇷)
 - Travelling (37 counties and counting. Fav. country handsdown Canada)
