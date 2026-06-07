@@ -5,7 +5,7 @@ I am Faiz Yah, a data scientist with the purpose of making positive impact by ha
 
 Aside from data, other fun stuff that excites me:
 - Languages (Quadrillingual here! 🇲🇾🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇳🇫🇷)
-- Travelling (37 counties and counting. Fav. country handsdown Canada)
+- Travelling (37 countries and counting | Fav. country handsdown Canada)
 - Cooking and baking 
 
 ## The Journey
